@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gonzalo
+Bienvenida/o al mi Repositorio...[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===============================================================================================================================
 
 Desarrollador Full Stack
 ------------------------
 
-Titulado de Ingeniera en Informática
+Ingeniero en Informática, siempre buscando aprender más. Me motivan los desafíos, disfruto trabajar en equipo y seguir creciendo en el mundo tech.
 
-* 🌍  I'm based in Santiago
-* 🧠  I'm learning gewv
-* 🤝  I'm open to collaborating on vdsvds
-* ⚡  vdsvd
+* 🌍  Santiago, CL
+* 🧠  Aprendiendo JAVA y profundizando en backend
+* ⚡  Curioso por la nube (AWS)
+* 🎯  Apuntando a ser un desarrollador integral y aportar con soluciones reales
 
 ### Skills
 
@@ -19,12 +19,8 @@ Titulado de Ingeniera en Informática
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/g0nzalo26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gonzalo-millanao/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>Estadisticas</b>
 
 <a href="http://www.github.com/g0nzalo26"><img src="https://github-readme-stats.vercel.app/api?username=g0nzalo26&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="g0nzalo26's GitHub stats" /></a>
