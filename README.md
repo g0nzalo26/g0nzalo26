@@ -8,7 +8,7 @@ Ingeniero en Informática, siempre buscando aprender más. Me motivan los desaf�
 
 * 🌍  Santiago, CL
 * 🧠  Aprendiendo JAVA y profundizando en backend
-* ⚡  Curioso por la nube (AWS)
+* ⚡  Proximo Objetivo AWS
 * 🎯  Apuntando a ser un desarrollador integral y aportar con soluciones reales
 
 ### Skills
